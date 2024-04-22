@@ -2,7 +2,7 @@ const Resume={
     Name: "Tamizhanban T",
    mail_id: "tamizhanban4563@gmail.com",
    phone_no:9876543210,
-   languages_known:["tamil","english"],
+   languages_known:["tamil","english","telugu"],
    qualification: [
     {
         school: "vethathiri maharishi higher secondary school",
