@@ -24,7 +24,7 @@ const Resume={
 };
     console.log(Resume.qualification[2])
 
-//2nd ques :loop
+//2nd ques :for Each:
 
 Object.keys(RESUME).forEach(key => {
     console.log(key, RESUME[key]);
